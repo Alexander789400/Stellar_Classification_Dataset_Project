@@ -1,4 +1,4 @@
-# Stellar_Classification_Dataset_Project
+# Stellar_Classification_Dataset_Project : ML Model
 # [Kaggle Dataset Source Link](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)
 # Problem Statement : This datasat aims to classificate stars, galaxies, and quasars based on their spectral characteristics.
 
